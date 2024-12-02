@@ -1,5 +1,6 @@
 a = 3
 b = 6
-c= a+b
+c = 8
+d= a+b+c
 
-print (c)
+print (d)
